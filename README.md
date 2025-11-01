@@ -7,6 +7,7 @@ To develop a prompt-based application using ChatGPT — demonstrating how to cre
 
 ## AI Tools Required:
 ChatGPT (Large Language Model by OpenAI)
+
 Optional: Google Colab / Python Command-Line Interface (for simulation)
 
 ## Explanation:
@@ -29,8 +30,11 @@ Determine interaction style (text-based conversational assistant).
 ### Construct Appropriate Prompts:
 
 Example 1: “Add a new task: Complete AI assignment by 5 PM.”
+
 Example 2: “Show me my pending tasks for today.”
+
 Example 3: “Remind me to drink water every 2 hours.”
+
 Example 4: “Give me a wellness tip for today.”
 
 ### Simulate Natural User Interaction:
@@ -95,9 +99,13 @@ Assistant: “Task added successfully!”
 
 The lab exercise resulted in the creation of a prototype concept for a personal productivity assistant powered by large language models.
 Students were able to:
+
 Understand how to tailor LLM prompts to real-life applications.
+
 Foster creativity by designing personalized assistant features.
+
 Learn prompt engineering techniques for effective human-AI interaction.
+
 Experience how generative AI can solve everyday organizational and wellness challenges.
 
 ## Conclusion:
