@@ -40,16 +40,19 @@ Example 4: “Give me a wellness tip for today.”
 ### Simulate Natural User Interaction:
 
 Implement using a simple text-based interface (e.g., command-line chat).
+
 ChatGPT or another LLM responds contextually based on user input.
 
 ### Collect and Adapt Based on Feedback:
 
 User provides corrections or new instructions.
+
 The assistant modifies its responses and preferences (simulated memory).
 
 ### Integrate Basic Memory:
 
 Store user preferences (e.g., “User prefers morning reminders”).
+
 Use this to personalize future responses.
 
 ### Expected Output:
@@ -58,23 +61,28 @@ Personal Productivity Assistant Features
 #### 1. Daily Task Manager:
 
 Accepts natural commands like: “Remind me to call mom at 6 PM.”
+
 Organizes tasks by priority and deadlines.
+
 Provides summaries: “You have 3 tasks today. The next one is due at 6 PM.”
 
 #### 2. Smart Scheduler:
 
 Schedules events contextually: “Add meeting with project team at 4 PM tomorrow.”
+
 Alerts on conflicts: “You already have a task scheduled at that time. Would you like to reschedule?”
 Suggests free time slots.
 
 #### 3. Wellness Tips Generator:
 
 Suggests daily wellness activities: “Take a 10-minute walk to refresh your mind.”
+
 Adapts tips based on feedback: “Since you prefer yoga, here’s a short stretch routine for today.”
 
 #### 4. General Query Assistant:
 
 Answers knowledge-based questions: “What are the benefits of meditation?”
+
 Provides motivational quotes or time management advice.
 
 #### Sample Output (Example Chat Simulation):
