@@ -74,18 +74,22 @@ Answers knowledge-based questions: “What are the benefits of meditation?”
 Provides motivational quotes or time management advice.
 
 #### Sample Output (Example Chat Simulation):
-
+```
 User: “Remind me to submit my report by 8 PM.”
 Assistant: “Got it! I’ll remind you at 8 PM to submit your report.”
-
+```
+```
 User: “What are my pending tasks for today?”
 Assistant: “You have two pending tasks: 1) Submit your report by 8 PM, 2) Prepare slides for tomorrow’s meeting.”
-
+```
+```
 User: “Give me a wellness tip.”
 Assistant: “Take a 5-minute screen break every hour to rest your eyes and stay energized.”
-
+```
+```
 User: “Add a new task: Water the plants at 7 AM.”
 Assistant: “Task added successfully!”
+```
 
 ## Result:
 
